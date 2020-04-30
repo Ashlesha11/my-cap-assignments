@@ -1,0 +1,10 @@
+<iostream.h>
+int main()
+{
+float f1,f2,x;
+cout<<"enter two numbers:";
+cin>>f1>>f2;
+x=f1*f2;
+cout<<"product of two numbers:"<<x;
+return 0;
+}
